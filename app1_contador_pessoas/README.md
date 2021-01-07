@@ -2,4 +2,4 @@
 
 App Simples feito em Flutter
 
-https://github.com/desenvolvimentoarivan/AppsFlutter/blob/main/app1_contador_pessoas/readmeimg/img.jpg
+<img src="https://github.com/desenvolvimentoarivan/AppsFlutter/blob/main/app1_contador_pessoas/readmeimg/img.jpg" alt="My cool logo"/>
